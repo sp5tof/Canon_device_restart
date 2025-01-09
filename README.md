@@ -10,5 +10,5 @@ Requirements:
 ```
 Canon dedicated port must be turned on
 Sometimes SNMP v1 should be also set to Read/Write for public community
-'''
+```
 Only Canon ADV/DX machines are supported.
